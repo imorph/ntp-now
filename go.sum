@@ -2,3 +2,5 @@ github.com/imorph/ntp-now/pkg/myntp v0.0.0-20190604034918-ad5e14eac46d h1:B3NPGg
 github.com/imorph/ntp-now/pkg/myntp v0.0.0-20190604034918-ad5e14eac46d/go.mod h1:1S6KxBTPVq0Vsq+H0eX65+7YQgZSKJslJCkglaTlVyI=
 github.com/imorph/ntp-now/pkg/myntp v0.0.1 h1:ki5h7WydblvID/W7dOxqYpfx4DoQpMCP5z/ByE2NK1M=
 github.com/imorph/ntp-now/pkg/myntp v0.0.1/go.mod h1:1S6KxBTPVq0Vsq+H0eX65+7YQgZSKJslJCkglaTlVyI=
+github.com/imorph/ntp-now/pkg/myntp v0.0.2 h1:51L/miee4vw5+TOeCKw6m5SGFJ3vSJmqcf0lIFXLnQ0=
+github.com/imorph/ntp-now/pkg/myntp v0.0.2/go.mod h1:1S6KxBTPVq0Vsq+H0eX65+7YQgZSKJslJCkglaTlVyI=
