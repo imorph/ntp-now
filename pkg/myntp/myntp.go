@@ -1,6 +1,11 @@
 package myntp
 
+import (
+	"time"
+)
+
 // Now will return current time according to 0.pool.ntp.org server
-func Now() string {
-	return "Now v0.0.2"
+func Now() (time.Time) {
+	timeNow := time.Now()
+	return timeNow
 }
