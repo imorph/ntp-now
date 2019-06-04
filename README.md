@@ -1,6 +1,6 @@
 # Show current time in terminal with ntp client
 
-## Example
+## Usage example
 
 ```shell
 ./ntp-now
